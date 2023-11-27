@@ -14,7 +14,7 @@ body {
     justify-content: center;
     flex-flow: column;
     padding: 2%;
-    border-radius: 2pc;
+    border-radius: 1pc;
 }
 
 .btn {
